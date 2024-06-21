@@ -158,7 +158,7 @@ public class CriarTarefaTests {
     @Test
     public void criarTarefaComSucesso(){
         driver.manage().window().maximize();
-        login("grupoVerde2", "123456");
+        login("Grupolaranja7", "123456");
         String categoria = "[Todos os Projetos] nova categoria";
         String reprodubilidade ="aleatório";
         String prioridade = "baixa";
